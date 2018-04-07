@@ -1,0 +1,100 @@
+
+
+p{
+	color: black;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+}
+li a{
+	color: #F29E40;
+	font-size: 1.5em;
+}
+li a:hover{
+	color:#fff;
+}
+
+ul{
+	padding-left: 0px;
+}
+.fa{
+	display: inline-block;
+}
+
+.logo{
+	margin-top: 10px;
+	max-width: 60%;
+}
+.contact__display{
+	display: inline-block;
+}
+.contact__color{
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+}
+.contact__space{
+	margin-left: 10px;
+	color: #F29E40;
+}
+.contact__margin{
+	margin-top: 110px;
+}
+.fa{
+	font-size: 20px;
+}
+
+
+.image-background{
+	background-color: yellow;
+	background-size: cover;
+	min-height: 100vh;
+	background-attachment: fixed;	
+}
+.image-person{
+	width: 240px;
+	height: auto;
+	border-radius: 50%;
+	box-shadow: 0 4px 4px 0 rgba(255, 255, 255, 0.9), 0 6px 20px 0 rgba(137, 114, 57);
+	max-width: 120px;
+	border: 2px solid white;
+}
+.section-background{
+	width: 100%;
+	height: auto;
+	padding-top: 10px;
+}
+.icon{
+	display: inline-block;
+	margin-top: 2px;
+}
+.icon__space{
+	padding-right: 10px;
+}
+.icon__color{
+	color:#F2B368;
+}
+
+.brownLine{
+    border-bottom: 1.5px solid #F2B368;
+    padding-bottom: 6px;
+    padding-right: 10px;
+}
+
+.sign{
+	color: #F29E40;
+	font-size: 1.8rem;
+	margin-top: 5px;
+	display: block;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 200;
+}
+
+.space-box{
+	padding-right: 10px;
+}
+
+
+body{
+	background-color: pink;
+}
+
